@@ -6,3 +6,4 @@ Git is free software distributed under the GPL.
 第二步时用git commit提交修改，实际上就是把暂存区的所有内容提交到当前分支。
 Git 管理的是修改，而不是文件。
 要懂得暂存区的概念。
+多次修改同一个文件，并分别add但是没有commit。
