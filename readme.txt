@@ -4,3 +4,4 @@ Git is free software distributed under the GPL.
 把文件往Git版本库中添加时，分两步进行：
 第一步是用git add把文件添加进去，实际上就是把文件修改添加到暂存区。
 第二步时用git commit提交修改，实际上就是把暂存区的所有内容提交到当前分支。
+Git 管理的是修改，而不是文件。
